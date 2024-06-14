@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://br.freepik.com/fotos-gratis/fundo-humano-do-aperto-de-mao-do-robo-era-digital-futurista_17850426.htm#fromView=search&page=1&position=1&uuid=529f68fa-d0cb-4fba-afaa-d141ce54ba27"  />
+  <img height="150" src="https://img.freepik.com/fotos-gratis/fundo-humano-do-aperto-de-mao-do-robo-era-digital-futurista_53876-129770.jpg"/>
 </div>
 
 ###
