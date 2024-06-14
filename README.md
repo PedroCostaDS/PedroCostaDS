@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://img.freepik.com/fotos-gratis/fundo-humano-do-aperto-de-mao-do-robo-era-digital-futurista_53876-129770.jpg"/>
+  <img height="156" src="https://img.freepik.com/fotos-gratis/fundo-humano-do-aperto-de-mao-do-robo-era-digital-futurista_53876-129770.jpg"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Seja Bem Vindo</h1>
+<h1 align="center">Seja Bem Vindo<br><br>Pedro Costa</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">👋 Olá! Sou Data Analyst no Banco Bradesco.<br>Minha experiência combina análise de dados com uma visão estratégica para impulsionar a eficiência operacional e agregar valor às organizações.<br><br>🔧 Habilidades Técnicas:<br><br>	•	Python (Pandas, NumPy, PyAutoGUI, Selenium, PyPDF2 e etc..)<br>	•	SQL Server<br>	•	Power BI<br>	•	VBA<br>	•	RPA<br>	•	Web Scraping<br>	•	ETL (Extract, Transform, Load)<br><br>📊 Experiência:<br><br>	•	Criação e manipulação de bases de dados<br>	•	Análise e desenvolvimento de fluxos de trabalho<br>	•	Automação de tarefas e processos<br>	•	Relatórios gerenciais automáticos para decisões estratégicas<br><br>🚀 Em Especialização:<br>Machine Learning e Deep Learning, focando em PNL para leitura e interpretação de relatórios e predições avançadas.</p>
 
 ###
 
@@ -35,9 +35,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
