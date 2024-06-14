@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Olá 👋 Seja Bem Vindo ao Meu Perfil<br><br>Sou o Pedro Costa</h1>
+<h1 align="center">Seja Bem Vindo</h1>
 
 ###
 
