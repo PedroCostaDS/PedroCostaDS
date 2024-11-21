@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">👋 Olá! Sou Data Analyst no Banco Bradesco.<br>Minha experiência combina análise de dados com uma visão estratégica para impulsionar a eficiência operacional e agregar valor às organizações.<br><br>🔧 Habilidades Técnicas:<br><br>	•	Python (Pandas, NumPy, PyAutoGUI, Selenium, PyPDF2 e etc..)<br>	•	SQL Server<br>	•	Power BI<br>	•	VBA<br>	•	RPA<br>	•	Web Scraping<br>	•	ETL (Extract, Transform, Load)<br><br>📊 Experiência:<br><br>	•	Criação e manipulação de bases de dados<br>	•	Análise e desenvolvimento de fluxos de trabalho<br>	•	Automação de tarefas e processos<br>	•	Relatórios gerenciais automáticos para decisões estratégicas<br><br>🚀 Em Especialização:<br>Machine Learning e Deep Learning, focando em PNL para leitura e interpretação de relatórios e predições avançadas.</p>
+<p align="left">👋 Olá! Sou Data Cience & Analyst no Banco Bradesco.<br>Minha experiência combina análise de dados com uma visão estratégica para impulsionar a eficiência operacional e agregar valor às organizações.<br><br>🔧 Habilidades Técnicas:<br><br>	•	Python (Pandas, NumPy, PyAutoGUI, Selenium, PyPDF2 e etc..)<br>	•	SQL Server<br>	•	Power BI<br>	•	VBA<br>	•	RPA<br>	•	Web Scraping<br>	•	ETL (Extract, Transform, Load)<br><br>📊 Experiência:<br><br>	•	Criação e manipulação de bases de dados<br>	•	Análise e desenvolvimento de fluxos de trabalho<br>	•	Automação de tarefas e processos<br>	•	Relatórios gerenciais automáticos para decisões estratégicas<br><br>🚀 Em Especialização:<br>Machine Learning e Deep Learning, focando em PNL para leitura e interpretação de relatórios e predições avançadas.</p>
 
 ###
 
